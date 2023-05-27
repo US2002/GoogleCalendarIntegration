@@ -1,0 +1,14 @@
+{
+    "web": {
+        "client_id": "425909064223-p5c0u46mhsar84pjum824igh5ok87ull.apps.googleusercontent.com",
+        "project_id": "convin-387919",
+        "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+        "token_uri": "https://oauth2.googleapis.com/token",
+        "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+        "client_secret": "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",
+        "redirect_uris": [
+            "http://127.0.0.1:8000/rest/v1/calendar/redirect/",
+            "http://127.0.0.1:8000/"
+        ]
+    }
+}
